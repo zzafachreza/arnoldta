@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79500925307",
+    "project_id": "arnoldta-8c4cf",
+    "storage_bucket": "arnoldta-8c4cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79500925307:android:a2281e49ae0555e71285de",
+        "android_client_info": {
+          "package_name": "com.arnoldta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79500925307-op5e6hk6fgjqma5gtpfc249of3l102pe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAJoHUcbI2x79jENnY1P_ao5VQVo7FcSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79500925307-op5e6hk6fgjqma5gtpfc249of3l102pe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
