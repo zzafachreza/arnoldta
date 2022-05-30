@@ -117,14 +117,14 @@ export default function ({ navigation, route }) {
                             fontFamily: fonts.secondary[600],
                             color: colors.black,
                         }}>
-                        Nama
+                        Email
                     </Text>
                     <Text
                         style={{
                             fontFamily: fonts.secondary[400],
                             color: colors.primary,
                         }}>
-                        {user.nama_lengkap}
+                        {user.email}
                     </Text>
                 </View>
 
